@@ -7,11 +7,9 @@
 
 .calc-grid {
   display: grid;
-  grid-template-columns: repeat(4,5rem);
+  grid-template-columns: repeat(4, 5rem);
   height: 50vh;
   justify-content: center;
-  margin-top: auto;
-  margin-bottom: auto;
   margin-top: 8rem;
 }
 
