@@ -39,42 +39,45 @@
 - Webpack
 - React
 
+<!--  KEY FEATURES -->
+
+## 🔭 Key Features <a name="key-features"></a>
+
+- [ ] **[Javascript]**
+- [ ] **[More_Pages]**
+- [ ] **[More_Media]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+
 ### Tech Stack <a name="tech-stack"></a>
 
 <details>
-  <summary>Webpack</summary>
+  <summary>Node.js</summary>
   <ul>
-    <li><a href="https://webpack.js.org/guides/getting-started/#basic-setup">Webpack</a></li>
+    <li><a href="https://nodejs.org/en">Node.js</a></li>
   </ul>
 </details>
 
 <details>
-  <summary>Jest</summary>
+  <summary>React</summary>
   <ul>
-    <li><a href="https://jestjs.io/">Jest</a></li>
+    <li><a href="https://create-react-app.dev/">React</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary>npm</summary>
+  <ul>
+    <li><a href="https://docs.npmjs.com/downloading-and-installing-node-js-and-npm">npm</a></li>
   </ul>
 </details>
 
 ### Key Features <a name="key-features"></a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- [Live Demo Link](Comming Soon...)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- Presentaton Link -->
-
-## 🚀 Presentation <a name="Presentation-link"></a>
-
-- [Presentation Link]()
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
@@ -150,9 +153,13 @@ To run the project, execute the following command:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Below is a lists of Features to be added later:
+- [ ] **[Javascript]**
+- [ ] **[More_Pages]**
+- [ ] **[More_Media]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
 
 <!-- CONTRIBUTING -->
 
@@ -179,13 +186,6 @@ Please give a ⭐️ if you like this project! 🤝
 - Hat tip to anyone whose code was used.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FAQ (optional) -->
-
-## ❓ FAQ <a name="faq"></a>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
