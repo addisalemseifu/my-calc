@@ -29,7 +29,7 @@
 
 # 📖  React Setup<a name="about-project"></a>
 
-> This is the setup of React App Project.
+> This is the User Interface of React App Project.
 
 ## 🛠 Built With <a name="built-with"></a>
 
