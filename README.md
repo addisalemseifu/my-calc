@@ -27,7 +27,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖  React Hook Calculator with Quotes.<a name="about-project"></a>
+# 📖  Fully Working Calculator Project Using React.<a name="about-project"></a>
 
 > This is the User Interface of React App with the calculator fully working and some random motivational quotes form a free API called API Ninjas.
 
