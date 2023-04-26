@@ -25,9 +25,9 @@ export default function Api() {
     fetchData();
   }, [setData, setIsLoading]);
 
-  if (hasError) return <div>Something went wrong!</div>;
+  if (hasError) return <div>This site is not responding at the moment!</div>;
 
-  if (isLoading) return <div>Loading...</div>;
+  if (isLoading) return <div>Fetching data...</div>;
 
   return (
     <div className="my-quotes">
