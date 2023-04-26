@@ -27,9 +27,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖  React Setup<a name="about-project"></a>
+# 📖  React Hook Calculator logic<a name="about-project"></a>
 
-> This is the User Interface of React App Project.
+> This is the User Interface of React App with the calculator fully working.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -72,6 +72,13 @@
   <summary>npm</summary>
   <ul>
     <li><a href="https://docs.npmjs.com/downloading-and-installing-node-js-and-npm">npm</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary>Big.js</summary>
+  <ul>
+    <li><a href="https://www.npmjs.com/package/big.js">big.js</a></li>
   </ul>
 </details>
 
