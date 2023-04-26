@@ -5,6 +5,13 @@
   font-family: 'Open Sans', sans-serif;
 }
 
+.main-container {
+  display: flex;
+  flex-direction: row;
+  margin-left: 3rem;
+  margin-right: 3rem;
+}
+
 .calc-grid {
   display: grid;
   grid-template-columns: repeat(4, 5rem);
@@ -36,4 +43,22 @@
 
 .clear {
   color: red;
+}
+
+.my-quotes {
+  margin-top: 3rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  border: 2px solid black;
+  height: 28.7rem;
+  position: relative;
+  top: 5rem;
+  border-radius: 4px;
+  background-color: #e6c586;
+}
+
+.my-quotes h4 {
+  margin: 1rem;
 }
