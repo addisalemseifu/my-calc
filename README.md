@@ -159,8 +159,8 @@ To run the project, execute the following command:
 👤 **Addisalem Seifu Beidework**
 
 - GitHub: [@addisalemseifu](https://github.com/githubhandle)
-- Twitter: [@Addisalem Seifu](https://twitter.com/twitterhandle)
-- LinkedIn: [addisalem seifu](https://linkedin.com/in/linkedinhandle)
+- Twitter: [@Addisalem Seifu](https://twitter.com/addisalems92518)
+- LinkedIn: [addisalem seifu](https://www.linkedin.com/in/addisalemseifu/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
