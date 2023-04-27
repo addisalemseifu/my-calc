@@ -27,9 +27,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖  React Hook Calculator logic<a name="about-project"></a>
+# 📖  Fully Working Calculator Project Using React.<a name="about-project"></a>
 
-> This is the User Interface of React App with the calculator fully working.
+> This is the User Interface of React App with the calculator fully working and some random motivational quotes form a free API called API Ninjas.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -38,6 +38,7 @@
 - Javascript
 - Webpack
 - React
+- API Ninjas
 
 <!--  KEY FEATURES -->
 
@@ -79,6 +80,13 @@
   <summary>Big.js</summary>
   <ul>
     <li><a href="https://www.npmjs.com/package/big.js">big.js</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary>API Ninjas</summary>
+  <ul>
+    <li><a href="https://api-ninjas.com/api/quotes">API Ninjas</a></li>
   </ul>
 </details>
 
@@ -151,8 +159,8 @@ To run the project, execute the following command:
 👤 **Addisalem Seifu Beidework**
 
 - GitHub: [@addisalemseifu](https://github.com/githubhandle)
-- Twitter: [@Addisalem Seifu](https://twitter.com/twitterhandle)
-- LinkedIn: [addisalem seifu](https://linkedin.com/in/linkedinhandle)
+- Twitter: [@Addisalem Seifu](https://twitter.com/addisalems92518)
+- LinkedIn: [addisalem seifu](https://www.linkedin.com/in/addisalemseifu/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
