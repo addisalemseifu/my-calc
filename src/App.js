@@ -1,12 +1,18 @@
+import { Route, Routes } from 'react-router-dom';
 import React from 'react';
-import Calculator from './components/Calculator';
-import Api from './components/Api';
+import HomePage from './components/HomePage';
+import CalcPage from './components/CalcPage';
+import QuotePage from './components/QuotePage';
+import './index.css';
 
 function App() {
   return (
     <div className="main-container">
-      <Calculator />
-      <Api />
+      <Routes>
+        <Route path="/" element={<HomePage />} />
+        <Route path="calculator/" element={<CalcPage />} />
+        <Route path="quote/" element={<QuotePage />} />
+      </Routes>
     </div>
   );
 }
