@@ -27,9 +27,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖  Fully Working Calculator Project Using React.<a name="about-project"></a>
+# 📖  Fully Working Calculator Website Project Using React.<a name="about-project"></a>
 
-> This is the User Interface of React App with the calculator fully working and some random motivational quotes form a free API called API Ninjas.
+> This is the User Interface of React App with the calculator fully working and some random motivational quotes form a free API called API Ninjas. We also used Routing to navigate inside the website.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -39,6 +39,7 @@
 - Webpack
 - React
 - API Ninjas
+- React Router
 
 <!--  KEY FEATURES -->
 
@@ -87,6 +88,13 @@
   <summary>API Ninjas</summary>
   <ul>
     <li><a href="https://api-ninjas.com/api/quotes">API Ninjas</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary>React Router </summary>
+  <ul>
+    <li><a href="https://reactrouter.com/">React Router </a></li>
   </ul>
 </details>
 
