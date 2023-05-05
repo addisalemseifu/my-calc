@@ -51,7 +51,13 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- LIVE DEMO -->
 
+## 🚀 Live Demo <a name="live-demo"></a>
+
+- [Live Demo Link](https://math-magicians-calculator-app-mryq.onrender.com)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ### Tech Stack <a name="tech-stack"></a>
