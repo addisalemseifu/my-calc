@@ -32,11 +32,11 @@ export default function Api() {
   return (
     <div className="my-quotes">
       {data.map((item) => (
-        <h4 key={item.author}>
+        <h3 title="qq" key={item.author}>
           -
           {' '}
           {item.quote}
-        </h4>
+        </h3>
       ))}
     </div>
   );
