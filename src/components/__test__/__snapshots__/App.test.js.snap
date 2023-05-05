@@ -1,0 +1,597 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Api should matche DOM Snapshot 1`] = `
+<div
+  className="my-quotes"
+/>
+`;
+
+exports[`Button should matche DOM Snapshot 1`] = `
+<button
+  data-testid="calc-buttons"
+  onClick={[Function]}
+  type="button"
+/>
+`;
+
+exports[`CalcPage should matche DOM Snapshot 1`] = `
+<div
+  className="page"
+>
+  <div
+    className="nav_bar"
+  >
+    <h1
+      className="header"
+    >
+      Math Magicians
+    </h1>
+    <ul
+      className="links"
+    >
+      <li
+        className="my-home"
+      >
+        <a
+          href="/"
+          onClick={[Function]}
+        >
+          Home
+        </a>
+      </li>
+      <li
+        className="my-calc"
+      >
+        <a
+          href="/calculator"
+          onClick={[Function]}
+        >
+          Calculator
+        </a>
+      </li>
+      <li
+        className="my-quote"
+      >
+        <a
+          href="/quote"
+          onClick={[Function]}
+        >
+          Quote
+        </a>
+      </li>
+    </ul>
+  </div>
+  <div
+    className="calc_container"
+  >
+    <h2
+      className="sub_header"
+    >
+      Lets do some math!
+    </h2>
+    <div
+      className="calc-grid"
+    >
+      <div
+        className="output"
+      >
+        <div
+          className="result"
+        >
+          <h1
+            data-testid="total"
+          />
+        </div>
+        <div
+          className="text"
+        >
+          <h3
+            data-testid="next"
+          />
+        </div>
+      </div>
+      <button
+        className="clear"
+        data-testid="calc-buttons"
+        onClick={[Function]}
+        type="button"
+      >
+        AC
+      </button>
+      <button
+        data-testid="calc-buttons"
+        onClick={[Function]}
+        type="button"
+      >
+        +/-
+      </button>
+      <button
+        data-testid="calc-buttons"
+        onClick={[Function]}
+        type="button"
+      >
+        %
+      </button>
+      <button
+        data-testid="calc-buttons"
+        onClick={[Function]}
+        type="button"
+      >
+        ÷
+      </button>
+      <button
+        data-testid="calc-buttons"
+        onClick={[Function]}
+        type="button"
+      >
+        7
+      </button>
+      <button
+        data-testid="calc-buttons"
+        onClick={[Function]}
+        type="button"
+      >
+        8
+      </button>
+      <button
+        data-testid="calc-buttons"
+        onClick={[Function]}
+        type="button"
+      >
+        9
+      </button>
+      <button
+        className="operator"
+        data-testid="calc-buttons"
+        onClick={[Function]}
+        type="button"
+      >
+        x
+      </button>
+      <button
+        data-testid="calc-buttons"
+        onClick={[Function]}
+        type="button"
+      >
+        4
+      </button>
+      <button
+        data-testid="calc-buttons"
+        onClick={[Function]}
+        type="button"
+      >
+        5
+      </button>
+      <button
+        data-testid="calc-buttons"
+        onClick={[Function]}
+        type="button"
+      >
+        6
+      </button>
+      <button
+        className="operator"
+        data-testid="calc-buttons"
+        onClick={[Function]}
+        type="button"
+      >
+        -
+      </button>
+      <button
+        data-testid="calc-buttons"
+        onClick={[Function]}
+        type="button"
+      >
+        1
+      </button>
+      <button
+        data-testid="calc-buttons"
+        onClick={[Function]}
+        type="button"
+      >
+        2
+      </button>
+      <button
+        data-testid="calc-buttons"
+        onClick={[Function]}
+        type="button"
+      >
+        3
+      </button>
+      <button
+        className="operator"
+        data-testid="calc-buttons"
+        onClick={[Function]}
+        type="button"
+      >
+        +
+      </button>
+      <button
+        className="zero"
+        data-testid="calc-buttons"
+        onClick={[Function]}
+        type="button"
+      >
+        0
+      </button>
+      <button
+        data-testid="calc-buttons"
+        onClick={[Function]}
+        type="button"
+      >
+        .
+      </button>
+      <button
+        className="operator"
+        data-testid="calc-buttons"
+        onClick={[Function]}
+        type="button"
+      >
+        =
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Calculator should matche DOM Snapshot 1`] = `
+<div
+  className="calc-grid"
+>
+  <div
+    className="output"
+  >
+    <div
+      className="result"
+    >
+      <h1
+        data-testid="total"
+      />
+    </div>
+    <div
+      className="text"
+    >
+      <h3
+        data-testid="next"
+      />
+    </div>
+  </div>
+  <button
+    className="clear"
+    data-testid="calc-buttons"
+    onClick={[Function]}
+    type="button"
+  >
+    AC
+  </button>
+  <button
+    data-testid="calc-buttons"
+    onClick={[Function]}
+    type="button"
+  >
+    +/-
+  </button>
+  <button
+    data-testid="calc-buttons"
+    onClick={[Function]}
+    type="button"
+  >
+    %
+  </button>
+  <button
+    data-testid="calc-buttons"
+    onClick={[Function]}
+    type="button"
+  >
+    ÷
+  </button>
+  <button
+    data-testid="calc-buttons"
+    onClick={[Function]}
+    type="button"
+  >
+    7
+  </button>
+  <button
+    data-testid="calc-buttons"
+    onClick={[Function]}
+    type="button"
+  >
+    8
+  </button>
+  <button
+    data-testid="calc-buttons"
+    onClick={[Function]}
+    type="button"
+  >
+    9
+  </button>
+  <button
+    className="operator"
+    data-testid="calc-buttons"
+    onClick={[Function]}
+    type="button"
+  >
+    x
+  </button>
+  <button
+    data-testid="calc-buttons"
+    onClick={[Function]}
+    type="button"
+  >
+    4
+  </button>
+  <button
+    data-testid="calc-buttons"
+    onClick={[Function]}
+    type="button"
+  >
+    5
+  </button>
+  <button
+    data-testid="calc-buttons"
+    onClick={[Function]}
+    type="button"
+  >
+    6
+  </button>
+  <button
+    className="operator"
+    data-testid="calc-buttons"
+    onClick={[Function]}
+    type="button"
+  >
+    -
+  </button>
+  <button
+    data-testid="calc-buttons"
+    onClick={[Function]}
+    type="button"
+  >
+    1
+  </button>
+  <button
+    data-testid="calc-buttons"
+    onClick={[Function]}
+    type="button"
+  >
+    2
+  </button>
+  <button
+    data-testid="calc-buttons"
+    onClick={[Function]}
+    type="button"
+  >
+    3
+  </button>
+  <button
+    className="operator"
+    data-testid="calc-buttons"
+    onClick={[Function]}
+    type="button"
+  >
+    +
+  </button>
+  <button
+    className="zero"
+    data-testid="calc-buttons"
+    onClick={[Function]}
+    type="button"
+  >
+    0
+  </button>
+  <button
+    data-testid="calc-buttons"
+    onClick={[Function]}
+    type="button"
+  >
+    .
+  </button>
+  <button
+    className="operator"
+    data-testid="calc-buttons"
+    onClick={[Function]}
+    type="button"
+  >
+    =
+  </button>
+</div>
+`;
+
+exports[`HomePage should matche DOM Snapshot 1`] = `
+<div
+  className="page"
+>
+  <div
+    className="nav_bar"
+  >
+    <h1
+      className="header"
+    >
+      Math Magicians
+    </h1>
+    <ul
+      className="links"
+    >
+      <li
+        className="my-home"
+      >
+        <a
+          href="/"
+          onClick={[Function]}
+        >
+          Home
+        </a>
+      </li>
+      <li
+        className="my-calc"
+      >
+        <a
+          href="/calculator"
+          onClick={[Function]}
+        >
+          Calculator
+        </a>
+      </li>
+      <li
+        className="my-quote"
+      >
+        <a
+          href="/quote"
+          onClick={[Function]}
+        >
+          Quote
+        </a>
+      </li>
+    </ul>
+  </div>
+  <h2
+    className="sub_header"
+  >
+    Welcome to our page!
+  </h2>
+  <p>
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore inventore distinctio obcaecati molestias nemo pariatur, illum provident qui voluptas harum officia dolorum asperiores itaque nobis velit! Necessitatibus eligendi accusamus quod voluptates consectetur, quaerat dolorem natus ut suscipit ad ratione, soluta doloremque! Rem minus autem labore quas omnis? Repellat voluptatem fugiat at, facilis officia consectetur quasi eum dolor, reprehenderit recusandae officiis quis nulla obcaecati praesentium cupiditate nihil ab! Quidem commodi eum doloremque. Iusto, officia? Et nam, eveniet provident voluptatem earum dolor?
+    <br />
+    <br />
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore inventore distinctio obcaecati molestias nemo pariatur, illum provident qui voluptas harum officia dolorum asperiores itaque nobis velit! Necessitatibus eligendi accusamus quod voluptates consectetur, quaerat dolorem natus ut suscipit ad ratione, soluta doloremque! Rem minus autem labore quas omnis? Repellat voluptatem fugiat at, facilis officia consectetur quasi eum dolor, reprehenderit recusandae officiis quis nulla obcaecati praesentium cupiditate nihil ab! Quidem commodi eum doloremque. Iusto, officia? Et nam, eveniet provident voluptatem earum dolor?
+  </p>
+</div>
+`;
+
+exports[`Navbar should matche DOM Snapshot 1`] = `
+<div
+  className="nav_bar"
+>
+  <h1
+    className="header"
+  >
+    Math Magicians
+  </h1>
+  <ul
+    className="links"
+  >
+    <li
+      className="my-home"
+    >
+      <a
+        href="/"
+        onClick={[Function]}
+      >
+        Home
+      </a>
+    </li>
+    <li
+      className="my-calc"
+    >
+      <a
+        href="/calculator"
+        onClick={[Function]}
+      >
+        Calculator
+      </a>
+    </li>
+    <li
+      className="my-quote"
+    >
+      <a
+        href="/quote"
+        onClick={[Function]}
+      >
+        Quote
+      </a>
+    </li>
+  </ul>
+</div>
+`;
+
+exports[`Output should matche DOM Snapshot 1`] = `
+<div
+  className="output"
+>
+  <div
+    className="result"
+  >
+    <h1
+      data-testid="total"
+    />
+  </div>
+  <div
+    className="text"
+  >
+    <h3
+      data-testid="next"
+    />
+  </div>
+</div>
+`;
+
+exports[`Pages should matche DOM Snapshot 1`] = `
+<li>
+  <a
+    href="/"
+    onClick={[Function]}
+  />
+</li>
+`;
+
+exports[`QuotePage should matche DOM Snapshot 1`] = `
+<div
+  className="page"
+>
+  <div
+    className="nav_bar"
+  >
+    <h1
+      className="header"
+    >
+      Math Magicians
+    </h1>
+    <ul
+      className="links"
+    >
+      <li
+        className="my-home"
+      >
+        <a
+          href="/"
+          onClick={[Function]}
+        >
+          Home
+        </a>
+      </li>
+      <li
+        className="my-calc"
+      >
+        <a
+          href="/calculator"
+          onClick={[Function]}
+        >
+          Calculator
+        </a>
+      </li>
+      <li
+        className="my-quote"
+      >
+        <a
+          href="/quote"
+          onClick={[Function]}
+        >
+          Quote
+        </a>
+      </li>
+    </ul>
+  </div>
+  <h2
+    className="sub_header"
+  >
+    Welcome to our page!
+  </h2>
+  <p>
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore inventore distinctio obcaecati molestias nemo pariatur, illum provident qui voluptas harum officia dolorum asperiores itaque nobis velit! Necessitatibus eligendi accusamus quod voluptates consectetur, quaerat dolorem natus ut suscipit ad ratione, soluta doloremque! Rem minus autem labore quas omnis? Repellat voluptatem fugiat at, facilis officia consectetur quasi eum dolor, reprehenderit recusandae officiis quis nulla obcaecati praesentium cupiditate nihil ab! Quidem commodi eum doloremque. Iusto, officia? Et nam, eveniet provident voluptatem earum dolor?
+    <br />
+    <br />
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore inventore distinctio obcaecati molestias nemo pariatur, illum provident qui voluptas harum officia dolorum asperiores itaque nobis velit! Necessitatibus eligendi accusamus quod voluptates consectetur, quaerat dolorem natus ut suscipit ad ratione, soluta doloremque! Rem minus autem labore quas omnis? Repellat voluptatem fugiat at, facilis officia consectetur quasi eum dolor, reprehenderit recusandae officiis quis nulla obcaecati praesentium cupiditate nihil ab! Quidem commodi eum doloremque. Iusto, officia? Et nam, eveniet provident voluptatem earum dolor?
+  </p>
+</div>
+`;
