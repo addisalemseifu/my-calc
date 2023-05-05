@@ -115,4 +115,17 @@ describe('Test the operate.js file', () => {
 
     expect(calcObject).toEqual({ next: '58', operation: '-', total: null });
   });
+
+  it('If there is no operation, update next and clear the value', () => {
+    const obj = {
+      total: null,
+      next: '5',
+      operation: null,
+    };
+    const buttonName = '8';
+
+    const calcObject = calculate(obj, buttonName);
+
+    expect(calcObject).toEqual({ next: '58', total: null });
+  });
 });
