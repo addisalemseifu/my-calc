@@ -18,7 +18,7 @@ export default function Calculator() {
 
   return (
     <div className="calc-grid">
-      <Output total={obj.total} next={obj.next} />
+      <Output data-testid="my-output" total={obj.total} next={obj.next} />
       <Buttons type="button" symbol="AC" className="clear" handleClick={addTotext} />
       <Buttons type="button" symbol="+/-" handleClick={addTotext} />
       <Buttons type="button" symbol="%" handleClick={addTotext} />

@@ -7,7 +7,7 @@ export default function HomePage() {
   return (
     <div className="page">
       <Navbar />
-      <h2 className="sub_header">Welocme to our page!</h2>
+      <h2 className="sub_header">Welcome to our page!</h2>
       <p>
         {text}
         <br />
