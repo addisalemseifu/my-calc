@@ -7,6 +7,7 @@ export default function Buttons({
 }) {
   return (
     <button
+      data-testid="calc-buttons"
       onClick={() => handleClick(symbol)}
       type="button"
       className={className}
